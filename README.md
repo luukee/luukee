@@ -1,7 +1,5 @@
-[![Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)](https://travis-ci.org/Automattic/_s)
 
-_s
-===
+Luukee
 
 Hi. I'm a starter theme called `luukee` built on `_s` and Foundation by Zurb. I'm a theme meant for hacking so don't use me as a Parent Theme. Intended to be duplicated to another project.
 
